@@ -11,3 +11,8 @@ Link to pull request: https://github.com/UVA-CS3240-S18/Lab2Fork-103/pull/36
 
 Improvements I made: I update the README.md to be a bit more descriptive. I also updated the closest_wendys.py lab to open a data file using 'with open' instead of just 'open'.
 I recently learned that using 'with open' is better practice because it will ensure that you always close the file, even if an exception is raised inside the with block. 
+
+
+Activity 4:
+
+Issue: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/89
