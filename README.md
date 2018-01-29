@@ -4,6 +4,7 @@ CS 3240 Lab 2 for Jianna Torre
 Activity 1: https://github.com/jt8vz/hello-world
 
 Activity 3:
+
 Link to fork: https://github.com/jt8vz/Lab2Fork-103
 
 Link to pull request: https://github.com/UVA-CS3240-S18/Lab2Fork-103/pull/36
